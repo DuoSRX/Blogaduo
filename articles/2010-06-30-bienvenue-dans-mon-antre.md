@@ -14,7 +14,7 @@ J'ouvrirais bientôt les commentaires, probablement en utilisant [Disqus](http:/
 
 Pour le moment le blog est basé sur [Toto](http://cloudhead.io/toto), un système de blog minimaliste basé sur Git et [Sinatra](http://www.sinatrarb.com), le tout hébergé dans les nuages par [Heroku](http://www.heroku.com).
 
-Bref je ne vais pas m'étaler puis longtemps, ce blog ayant avant tout une vocation technique. Je vous laisse
+Bref je ne vais pas m'étaler plus longtemps, ce blog ayant avant tout une vocation technique. Je vous laisse
 enchaîner par [mon premier article](/2010/06/30/git-et-svn-12) qui concerne l'utilisation de SVN avec Git.
 
 À bientôt !
